@@ -62,7 +62,7 @@ Each solution will include clean code and (soon) complexity analysis.
 
 - 🟢 Easy Problems – In Progress  
 - 🟡 Medium Problems – In Progress  
-- 🔴 Hard Problems – Coming Soon  
+- 🔴 Hard Problems – In progress   
 
 I will keep updating this repository regularly 🚀  
 
